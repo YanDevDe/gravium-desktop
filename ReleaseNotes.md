@@ -1,6 +1,25 @@
 # Release Notes
 
 #### Latest Update of Gravium Wallet.
+
+___
+### 2.0.2 Beta
+- Self Payment will show as "Self Payment" and amount will be in gray at Overview
+- "Open Transaction"-Link is now fixed.
+- Footer Menus have now tooltip if you hover the icons by mouse.
+- "Data Sent", "Data Received", "Nodes Connected" added at Footer.
+- "Days at Overview (detailed) is not centered" - fixed
+- Send Section, locked balance will display at "total balance"
+- Send Section, if you send address to yourself and its labelled, it will show at "Pay to **[LABEL]**"
+- "Masternode wont be locked at Coin Control" fixed
+- Masternode Tab have now new icon look.
+- Masternode Section, detailed MN informations such like how much rewards, amount etc.
+- Masternode have now new icons and text for buttons at "My Masternode"-Section
+- Masternode "Start Certain Status", now you can start all MN at certain status.
+- "Entering IP Address"-Window for adding Masternode(s).
+- Receive Section, displaying list is not delaying anymore.
+- Send Tab will now show how much coins are locked.
+- Some text changes & some major design changes.
 ___
 ### 2.0.1 Beta
 - New Update Notification System added.
