@@ -3,6 +3,16 @@
 #### Latest Update of Gravium Wallet.
 
 ___
+### 2.0.3 Beta(?)
+- "Data Received" renamed to "Blockchain Dowloaded"
+- "Data Sent" renamed to "Blockchain Shared"
+- Warning at creating address with spaces in label which doesnt support for Masternode(s).
+- Rewards will show "50 Confirmations" instead "6 Confirmations"
+- "Assistance Masternode Creation" will now warns you if the txid is still below of required confirmations.
+- Address Book System added at Send Tab
+- Minor design changes
+- Major Bug Fixes at Masternode (Issues at creating new Masternode) and Overview (Self Payment)
+___
 ### 2.0.2 Beta
 - Self Payment will show as "Self Payment" and amount will be in gray at Overview
 - "Open Transaction"-Link is now fixed.
