@@ -2,8 +2,13 @@
 
 #### Latest Update of Gravium Wallet.
 
+### 2.0.4
+- Huge performance boost at startup
+- New major design changes
+- New logo and new and changed icons
+- Many minor bugs fixed
 ___
-### 2.0.3 Beta(?)
+### 2.0.3 Beta
 - "Data Received" renamed to "Blockchain Dowloaded"
 - "Data Sent" renamed to "Blockchain Shared"
 - Warning at creating address with spaces in label which doesnt support for Masternode(s).
