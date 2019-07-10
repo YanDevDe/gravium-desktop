@@ -2,6 +2,19 @@
 
 #### Latest Update of Gravium Wallet.
 
+### 2.0.5
+Features:
+- Two new settings: Decimals Count for Balance for Overview and/or Send.
+- "Open Backups Location" added at Repair Wallet in Settings section.
+
+Fixed:
+- RAM usage reduced by 75-95% (Not quite fixed yet)
+- Breaking Masternode collateral when sending fixed.
+- Scrollbar position will be kept when switchting tabs
+- Pagination at tables (as example "All Masternodes") doesnt glitch out anymore.
+- Some minor design glitch fixed
+- Received have not accurate balance fixed.
+___
 ### 2.0.4
 - Huge performance boost at startup
 - New major design changes
