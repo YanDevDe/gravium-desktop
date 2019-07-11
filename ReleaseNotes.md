@@ -5,7 +5,7 @@
 ### 2.0.6
 Fixed:
 - Send Button isn't working fixed.
-- Address Book doesnt save sent address with no description at all.
+- Address Book doesnt save sent address with no description now.
 - Masternode updates too often (15 seconds) which cause more RAM usage which is now fixed.
 - Masternode sometimes shows "Masternode is syncing" randomly fixed.
 ___
