@@ -2,6 +2,13 @@
 
 #### Latest Update of Gravium Wallet.
 
+### 2.0.6
+Fixed:
+- Send Button isn't working fixed.
+- Address Book doesnt save sent address with no description at all.
+- Masternode updates too often (15 seconds) which cause more RAM usage which is now fixed.
+- Masternode sometimes shows "Masternode is syncing" randomly fixed.
+___
 ### 2.0.5
 Features:
 - Two new settings: Decimals Count for Balance for Overview and/or Send.
