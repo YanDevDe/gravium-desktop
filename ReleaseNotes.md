@@ -5,12 +5,12 @@
 ### 2.0.7
 Features:
 - Mac Version is out!
-- 10MB less installation size.
-- RAM and CPU usage even further reduced. (performance increased)
-- Improved security.
 - A button "Show more" will appear to load even more transactions at Overview Section.
+- Improved security.
 
 Fixed:
+- 10MB less installation size.
+- RAM and CPU usage even further reduced. (performance increased)
 - "Gravium Daemon v-" is now fixed.
 - "Masternode detailed information is broken" is now fixed.
 - "Switching sections are showing very late/have delay" is now fixed.
